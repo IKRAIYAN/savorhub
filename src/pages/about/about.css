@@ -1,0 +1,24 @@
+.about_section-content h1 {
+    margin-bottom: 2rem;
+}
+
+.about_story-container {
+    display: grid;
+}
+
+@media screen and (max-width: 1024px) {
+    .about_section-content h1 {
+        margin-bottom: 1.2rem;
+    }
+
+    .about_story-container {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .about_story-container {
+        gap: 2rem;
+    }
+}
