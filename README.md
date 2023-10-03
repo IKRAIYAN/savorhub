@@ -4,7 +4,7 @@ Welcome to the source code repository for my entry in the Logitech Web Developer
 
 ![Logitech Web Developer Contest](https://cdn.discordapp.com/attachments/1038458948677812256/1156971981766397992/20230928_211308.jpg?ex=651cd85f&is=651b86df&hm=ca1715163dfabe72d2a80a0aa45f90c003fee2c0be8a9647e64a9ef3e327b459&)
 
-## About Our Entry
+## About My Entry
 
 In this competition, I've blended the art of web development with the culinary world to create a unique online experience. My project embodies the spirit of innovation and creativity, focusing on enhancing the way you interact with a restaurant.
 
